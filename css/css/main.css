@@ -1,0 +1,29 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/SiteHTML\/Antaltida\/css\/sass\/main\.sass}line{font-family:\000033}}
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialised; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/SiteHTML\/Antaltida\/css\/sass\/main\.sass}line{font-family:\0000312}}
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+  color: red; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/SiteHTML\/Antaltida\/css\/sass\/main\.sass}line{font-family:\0000315}}
+body input:required:valid,
+body textarea:required:valid {
+  color: green; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/SiteHTML\/Antaltida\/css\/sass\/main\.sass}line{font-family:\0000319}}
+.hidden {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/SiteHTML\/Antaltida\/css\/sass\/main\.sass}line{font-family:\0000322}}
+.header {
+  background-color: #FFF; }
+
+/*# sourceMappingURL=main.css.map */
